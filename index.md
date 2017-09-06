@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to Jaehee's Pages
 
-You can use the [editor on GitHub](https://github.com/JaeheePark/JaeheePark.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi,I'm Jaehee Park. And I'm a Ph.D. student in Department of Geography.
+I just made this website for the class. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Jaehee Park is...
 
 ```markdown
-Syntax highlighted code block
+Here are some information about me!
 
-# Header 1
-## Header 2
-### Header 3
+# Academic Background
 
-- Bulleted
-- List
+1. B.A. in Socail Studies and Geography Education in Ewha Womans University(Korea)
+2. M.A. in Geography in Ewha Womans University(Korea)
+3. Just started a new journey... 
 
-1. Numbered
-2. List
+# Research Interests
 
-**Bold** and _Italic_ and `Code` text
+- GIScience
+- Geospatial Big Data
+- Social Media Data Analitic
+- Public Health
+
+**I will** update _more_ about `me` later!
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Little more about me : My Favorite Musicians
 
-### Jekyll Themes
+I like listening music and mostly I listen alternative rock. Here are my favorite bands and musicians : Sigur Ros, Oasis, Coldplay, Muse, U2, Ben folds five, Scripts, Rachael Yamagata... 
 
+
+### GEOG594
+
+In this semester, I'm taking Big Data class. Check out [GEOG594](https://map.sdsu.edu/bigdata) for more information.
+
+
+
+
+
+#### Some...
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JaeheePark/JaeheePark.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can use the [editor on GitHub](https://github.com/JaeheePark/JaeheePark.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
