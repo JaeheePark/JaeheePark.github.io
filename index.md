@@ -19,7 +19,7 @@ Here are some information about me!
 
 - GIScience
 - Geospatial Big Data
-- Social Media Data Analitic
+- Social Media Data Analytic
 - Public Health
 
 **I will** update _more_ about `me` later!
